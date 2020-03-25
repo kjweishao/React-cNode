@@ -1,5 +1,5 @@
 # React 实战项目《cNode》开发
-这是一个 以cNode为例的 react实战开发项目，项目中涉及到 React，Redux，antd 等 技术点的应用，是一个特别不错的 React + antd 的练手项目 
+这是一个 以cNode为例的 react实战开发项目，项目中涉及到 React，Redux，antd 等 技术点的应用
 ## 技术栈
 - create-react-app
 - react
@@ -12,12 +12,6 @@
 ## API接口
 这里使用的是 cnodejs 官网给出的数据接口，接口文档地址：https://cnodejs.org/api
 
-## 涉及知识前置说明：
-- react 和 redux 相关的知识，大家可以在查看 https://github.com/motao314/React_note
-- antd 可以参考 design 官网文档，讲解的很详细，但然在后续的视频中也会涉及 antd的使用，官网地址：https://ant.design/index-cn
-
-## 说明
-**该项目我会以视频的形式给大家讲解，视频最终会放入妙味官网的[视频板块](http://2017.miaov.com/study)**
 
 ## 视频课程大纲
 - 环境安装
